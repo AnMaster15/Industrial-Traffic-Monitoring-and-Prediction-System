@@ -1,5 +1,12 @@
+# Model files
 *.pt
+
+# Data
 *.pkl
 *.db
+
+# Videos
 *.mov
+
+# Logs
 *.log
